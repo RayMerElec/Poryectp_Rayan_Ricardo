@@ -27,5 +27,5 @@ public class Rectangulo {
 
 	public static double calcularPerimetro(double longitud, double ancho) {
 		return 2 * (longitud + ancho);
-	}
+	}  
 }
